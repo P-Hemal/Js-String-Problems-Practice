@@ -12,6 +12,10 @@ else{
     console.log('its negative')
 }
 
+const number3 = 2.459621;
+const fullNumber3 = Math.round(number3);
+// console.log(fullNumber3);
+
 const number = 2.45875;
 const fullNumber = Math.ceil(number);
 // console.log(fullNumber)
